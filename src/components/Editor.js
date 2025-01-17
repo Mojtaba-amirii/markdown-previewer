@@ -12,7 +12,7 @@ const Editor = () => {
   };
 
   return (
-    <div className="form-group w-50">
+    <div data-testid="editor" className="form-group w-50">
       <textarea
         id="editor"
         className="form-control"

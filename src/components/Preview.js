@@ -17,6 +17,7 @@ const Preview = () => {
   return (
     <div
       id="preview"
+      data-testid="preview"
       className="border w-50 p-3"
       dangerouslySetInnerHTML={{ __html: marked(content) }}
     />
