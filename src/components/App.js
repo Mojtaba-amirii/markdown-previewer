@@ -1,5 +1,3 @@
-import React from "react";
-
 import Editor from "./Editor";
 import Preview from "./Preview";
 import "bootstrap/dist/css/bootstrap.min.css";
