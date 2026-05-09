@@ -13,9 +13,9 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
     "bootstrap": "^5.3.7",
-    "marked": "^18.0.2",
-    "react": "^19.2.5",
-    "react-dom": "^19.2.5",
+    "marked": "^18.0.3",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
     "react-redux": "^9.2.0",
     "react-scripts": "^5.0.1",
     "redux": "^5.0.1",
@@ -27,7 +27,7 @@
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^14.6.1",
-    "ajv": "^8.18.0",
+    "ajv": "^8.20.0",
     "cross-env": "^10.1.0",
     "identity-obj-proxy": "^3.0.0",
     "react-app-rewired": "^2.2.1"
