@@ -11,12 +11,12 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "^2.11.2",
+    "@reduxjs/toolkit": "^2.12.0",
     "bootstrap": "^5.3.7",
-    "marked": "^18.0.3",
+    "marked": "^18.0.4",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
-    "react-redux": "^9.2.0",
+    "react-redux": "^9.3.0",
     "react-scripts": "^5.0.1",
     "redux": "^5.0.1",
     "web-vitals": "^5.2.0"
@@ -61,6 +61,10 @@
   "overrides": {
     "nth-check": "^2.1.1",
     "postcss": "^8.4.31",
+    "serialize-javascript": "^7.0.5",
+    "uuid": "^11.1.1",
+    "underscore": "^1.13.8",
+    "@tootallnate/once": "^3.0.1",
     "react-scripts": {
       "webpack-dev-server": "^5.2.2"
     }
